@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/static/css/main.0273376a.css",
-    "main.js": "/static/js/main.92f2a5e9.js",
-    "static/media/hero-background.jpg": "/static/media/hero-background.8b8f2be6455557daa573.jpg",
-    "static/media/hexagon-7-0_2021.jpg": "/static/media/hexagon-7-0_2021.c81caefe78c1bfe53119.jpg",
-    "static/media/romet.png": "/static/media/romet.6822555745951c73bc13.png",
-    "static/media/giant.png": "/static/media/giant.64346d85c1dbe5ee9658.png",
-    "static/media/scott.png": "/static/media/scott.bb7ed304b929f95ff6f0.png",
-    "static/media/storm.png": "/static/media/storm.04d0b878a9e10b4d5409.png",
-    "static/media/kross.png": "/static/media/kross.39c271677177745e1e41.png",
-    "index.html": "/index.html",
-    "main.0273376a.css.map": "/static/css/main.0273376a.css.map",
-    "main.92f2a5e9.js.map": "/static/js/main.92f2a5e9.js.map"
+    "main.css": "/bikeshop-abc/static/css/main.2ec801f0.css",
+    "main.js": "/bikeshop-abc/static/js/main.65ee4b4a.js",
+    "static/media/hero-background.jpg": "/bikeshop-abc/static/media/hero-background.8b8f2be6455557daa573.jpg",
+    "static/media/hexagon-7-0_2021.jpg": "/bikeshop-abc/static/media/hexagon-7-0_2021.c81caefe78c1bfe53119.jpg",
+    "static/media/romet.png": "/bikeshop-abc/static/media/romet.6822555745951c73bc13.png",
+    "static/media/giant.png": "/bikeshop-abc/static/media/giant.64346d85c1dbe5ee9658.png",
+    "static/media/scott.png": "/bikeshop-abc/static/media/scott.bb7ed304b929f95ff6f0.png",
+    "static/media/storm.png": "/bikeshop-abc/static/media/storm.04d0b878a9e10b4d5409.png",
+    "static/media/kross.png": "/bikeshop-abc/static/media/kross.39c271677177745e1e41.png",
+    "index.html": "/bikeshop-abc/index.html",
+    "main.2ec801f0.css.map": "/bikeshop-abc/static/css/main.2ec801f0.css.map",
+    "main.65ee4b4a.js.map": "/bikeshop-abc/static/js/main.65ee4b4a.js.map"
   },
   "entrypoints": [
-    "static/css/main.0273376a.css",
-    "static/js/main.92f2a5e9.js"
+    "static/css/main.2ec801f0.css",
+    "static/js/main.65ee4b4a.js"
   ]
 }
