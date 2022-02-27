@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/static/css/main.7f7d2cd3.css",
-    "main.js": "/static/js/main.6b216f53.js",
-    "static/media/hero-background.jpg": "/static/media/hero-background.8b8f2be6455557daa573.jpg",
-    "static/media/prox.png": "/static/media/prox.4b205ee0822c1357914a.png",
-    "static/media/romet.png": "/static/media/romet.600b7299244a76c45b6f.png",
-    "static/media/kellys.png": "/static/media/kellys.012afa73883d55987c35.png",
-    "static/media/hexagon-7-0_2021.jpg": "/static/media/hexagon-7-0_2021.c81caefe78c1bfe53119.jpg",
-    "static/media/man-talking-on-the-telephone.png": "/static/media/man-talking-on-the-telephone.bfc0a6ec2d4aeb018623.png",
-    "static/media/kenda.png": "/static/media/kenda.89cc5fabd0a7e2b29711.png",
-    "static/media/lazer.png": "/static/media/lazer.2b311f41fee6e36a7030.png",
-    "static/media/kls.png": "/static/media/kls.54924238483847e9d56d.png",
-    "static/media/shimano.png": "/static/media/shimano.aa69d5f45705bb01606e.png",
-    "index.html": "/index.html",
-    "main.7f7d2cd3.css.map": "/static/css/main.7f7d2cd3.css.map",
-    "main.6b216f53.js.map": "/static/js/main.6b216f53.js.map"
+    "main.css": "/bikeshop-abc/static/css/main.c302cbe7.css",
+    "main.js": "/bikeshop-abc/static/js/main.7d39b636.js",
+    "static/media/hero-background.jpg": "/bikeshop-abc/static/media/hero-background.8b8f2be6455557daa573.jpg",
+    "static/media/prox.png": "/bikeshop-abc/static/media/prox.4b205ee0822c1357914a.png",
+    "static/media/romet.png": "/bikeshop-abc/static/media/romet.600b7299244a76c45b6f.png",
+    "static/media/kellys.png": "/bikeshop-abc/static/media/kellys.012afa73883d55987c35.png",
+    "static/media/hexagon-7-0_2021.jpg": "/bikeshop-abc/static/media/hexagon-7-0_2021.c81caefe78c1bfe53119.jpg",
+    "static/media/man-talking-on-the-telephone.png": "/bikeshop-abc/static/media/man-talking-on-the-telephone.bfc0a6ec2d4aeb018623.png",
+    "static/media/kenda.png": "/bikeshop-abc/static/media/kenda.89cc5fabd0a7e2b29711.png",
+    "static/media/lazer.png": "/bikeshop-abc/static/media/lazer.2b311f41fee6e36a7030.png",
+    "static/media/kls.png": "/bikeshop-abc/static/media/kls.54924238483847e9d56d.png",
+    "static/media/shimano.png": "/bikeshop-abc/static/media/shimano.aa69d5f45705bb01606e.png",
+    "index.html": "/bikeshop-abc/index.html",
+    "main.c302cbe7.css.map": "/bikeshop-abc/static/css/main.c302cbe7.css.map",
+    "main.7d39b636.js.map": "/bikeshop-abc/static/js/main.7d39b636.js.map"
   },
   "entrypoints": [
-    "static/css/main.7f7d2cd3.css",
-    "static/js/main.6b216f53.js"
+    "static/css/main.c302cbe7.css",
+    "static/js/main.7d39b636.js"
   ]
 }
