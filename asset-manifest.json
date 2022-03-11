@@ -1,7 +1,8 @@
 {
   "files": {
-    "main.css": "/bikeshop-abc/static/css/main.618ee613.css",
-    "main.js": "/bikeshop-abc/static/js/main.9975b70c.js",
+    "main.css": "/bikeshop-abc/static/css/main.2916a44b.css",
+    "main.js": "/bikeshop-abc/static/js/main.18f44ca3.js",
+    "static/media/bikes-bg.svg": "/bikeshop-abc/static/media/bikes-bg.7e400b33728a7def363235068632f3d1.svg",
     "static/media/hero-background.jpg": "/bikeshop-abc/static/media/hero-background.8b8f2be6455557daa573.jpg",
     "static/media/prox.png": "/bikeshop-abc/static/media/prox.4b205ee0822c1357914a.png",
     "static/media/romet.png": "/bikeshop-abc/static/media/romet.600b7299244a76c45b6f.png",
@@ -13,11 +14,11 @@
     "static/media/kls.png": "/bikeshop-abc/static/media/kls.54924238483847e9d56d.png",
     "static/media/shimano.png": "/bikeshop-abc/static/media/shimano.aa69d5f45705bb01606e.png",
     "index.html": "/bikeshop-abc/index.html",
-    "main.618ee613.css.map": "/bikeshop-abc/static/css/main.618ee613.css.map",
-    "main.9975b70c.js.map": "/bikeshop-abc/static/js/main.9975b70c.js.map"
+    "main.2916a44b.css.map": "/bikeshop-abc/static/css/main.2916a44b.css.map",
+    "main.18f44ca3.js.map": "/bikeshop-abc/static/js/main.18f44ca3.js.map"
   },
   "entrypoints": [
-    "static/css/main.618ee613.css",
-    "static/js/main.9975b70c.js"
+    "static/css/main.2916a44b.css",
+    "static/js/main.18f44ca3.js"
   ]
 }
